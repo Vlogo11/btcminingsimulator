@@ -1,0 +1,2 @@
+# btcminingsimulator
+My game :D
