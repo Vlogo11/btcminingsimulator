@@ -6,7 +6,7 @@
     - You can get money from the ad! (+100)
 
 - Current version: 1.3.6 - 2021.10.29
-#### Game changes:
+  #### Game changes:
     - Loading bar
 
 - Next version: 1.3.7
