@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/LOADING.unity
+    guid: 4bc7fafea2e05374ea6305fea6e5e0fe
+  - enabled: 1
     path: Assets/MENU.unity
     guid: e04e5870e4994df4d9ccf26b757c46ed
   - enabled: 1
@@ -41,7 +44,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ADROLL.unity
     guid: 6ad5ce9d2648fcd42adfb9b2c9902ad1
-  - enabled: 1
-    path: Assets/LOADING.unity
-    guid: 4bc7fafea2e05374ea6305fea6e5e0fe
   m_configObjects: {}
