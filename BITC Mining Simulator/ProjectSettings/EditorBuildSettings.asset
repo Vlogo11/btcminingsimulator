@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LOADING.unity
+    guid: 626653057090ddc4c9f0135001075ddc
+  - enabled: 1
+    path: Assets/MENU.unity
+    guid: 392b48725c12dfd4f822b5e8c2aba7af
+  - enabled: 1
+    path: Assets/SETTINGS.unity
+    guid: 8f1f1eebbffc3ba4c96b9c873900dbfa
+  - enabled: 1
+    path: Assets/Intel.unity
+    guid: 3a450ecc818d32b4dadde533c45da326
+  - enabled: 1
+    path: Assets/AMD.unity
+    guid: 742c28290b2c7444ea0a7cca6932313e
+  - enabled: 1
+    path: Assets/Core I3.unity
+    guid: c5c9656f24343384ca92cd3c8c2df044
+  - enabled: 1
+    path: Assets/Core I5.unity
+    guid: 3d707cc445391f446bcf1c04ecf117a5
+  - enabled: 1
+    path: Assets/Coming Soon.unity
+    guid: 872e719d1f9d846439a11a3f6efebea4
+  - enabled: 1
+    path: Assets/RICKROLL.unity
+    guid: 2ee8489f9e300d54f8a4e2d6a4ad8a77
+  - enabled: 1
+    path: Assets/FACEBOOK.unity
+    guid: 81000d57bceb04a4a87bff54518233f5
+  - enabled: 1
+    path: Assets/BUY.unity
+    guid: 8fd44152c5831e947a5b9b0fa4acfcae
+  - enabled: 1
+    path: Assets/AD.unity
+    guid: 987a284c08210cc4e8b895277fe9dc61
+  - enabled: 1
+    path: Assets/ADROLL.unity
+    guid: 2c2048d3e34a3eb48b377f9d0f2de698
+  m_configObjects: {}
