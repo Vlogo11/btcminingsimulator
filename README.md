@@ -8,6 +8,7 @@
 - Current version: 1.3.6 - 2021.10.29
   #### Game changes:
     - Loading bar
+    - Bugfix
 
 - Current version: 1.3.7 - 2021.10.30
   #### Game changes:
