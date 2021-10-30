@@ -44,4 +44,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ADROLL.unity
     guid: 2c2048d3e34a3eb48b377f9d0f2de698
+  - enabled: 1
+    path: Assets/RESULOTION.unity
+    guid: cfa6cef1edf8743428ebe60bf28264fa
   m_configObjects: {}
