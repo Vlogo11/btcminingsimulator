@@ -14,5 +14,6 @@
   #### Game changes:
     - Change resulotion
     - Some bugfix
+    - Updates link opener button
 
 - Next version: 1.3.8
