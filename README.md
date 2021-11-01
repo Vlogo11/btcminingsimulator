@@ -10,7 +10,7 @@
     - Loading bar
     - Bugfix
 
-- Current version: 1.3.7 - 2021.10.30
+- Current version: 1.3.7 - 2021.11.01
   #### Game changes:
     - Change resulotion
     - Some bugfix
