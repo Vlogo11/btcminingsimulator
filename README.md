@@ -1,5 +1,7 @@
 # BTC Mining Simulator
 ## Version History
+- Next version: 1.3.8
+
 - Current version: 1.3.7 - 2021.11.01
   #### Game changes:
     - Change resulotion
@@ -15,5 +17,3 @@
   #### Game changes:
     - Ad system, without Internet connection (Rickroll ad :D)
     - You can get money from the ad! (+100)
-
-- Next version: 1.3.8
