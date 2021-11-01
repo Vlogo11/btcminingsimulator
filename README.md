@@ -6,7 +6,7 @@
   #### Game changes:
     - Change resulotion
     - Some bugfix
-    - Updates link opener button
+    - Settings/Updates/Updates link opener button
 
 - Version: 1.3.6 - 2021.10.29
   #### Game changes:
