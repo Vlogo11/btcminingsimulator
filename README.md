@@ -5,7 +5,11 @@ https://github.com/Vlogo11/btcminingsimulatorapk
 ## Version History
 - Next version: 1.3.8
 
-- Current version: 1.3.7 - 2021.11.01
+- Current version: 1.3.7.5 - 2021.11.11
+  #### Game changes:
+    - Informations about the processors
+
+- Version: 1.3.7 - 2021.11.01
   #### Game changes:
     - Change resulotion
     - Some bugfix
