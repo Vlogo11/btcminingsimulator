@@ -2,7 +2,7 @@
 ### Download BTC Mining Simulator 1.3.8 APK
 #### https://github.com/Vlogo11/btcminingsimulatorapk
 
-##l Version History
+## Version History
 - Next version: 1.3.8
 
 - Current version: 1.3.8 - 2021.11.13
