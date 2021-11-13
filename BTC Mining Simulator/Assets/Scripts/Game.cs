@@ -364,7 +364,16 @@ public class Game : MonoBehaviour
         //AD
         if (num == 137 && GameManager.o2 >= 0)
         {
+            GameManager.multiplier += 0;
             GameManager.o2 += 100;
+            PlayerPrefs.SetInt("o2", GameManager.o2);
+            PlayerPrefs.SetInt("multiplier", GameManager.multiplier);
+        }
+
+        if (num == 138 && GameManager.o2 >= 0)
+        {
+            GameManager.multiplier += 1;
+            GameManager.o2 += 0;
             PlayerPrefs.SetInt("o2", GameManager.o2);
             PlayerPrefs.SetInt("multiplier", GameManager.multiplier);
         }
