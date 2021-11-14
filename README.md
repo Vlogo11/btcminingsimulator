@@ -8,7 +8,7 @@
 - Current version: 1.3.8 - 2021.11.13
   #### Game changes:
     - Better loading scene
-    - Plus one advertisement (+1 earn)
+    - Plus one advertisement: it's a game! (+1 earn)
     - Bugfixes
 
 - Version: 1.3.7.5 - 2021.11.11
