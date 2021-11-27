@@ -370,10 +370,10 @@ public class Game : MonoBehaviour
             PlayerPrefs.SetInt("multiplier", GameManager.multiplier);
         }
 
-        if (num == 138 && GameManager.o2 >= 0)
+        if (num == 138 && GameManager.o2 >= 300)
         {
             GameManager.multiplier += 1;
-            GameManager.o2 += 0;
+            GameManager.o2 -= 300;
             PlayerPrefs.SetInt("o2", GameManager.o2);
             PlayerPrefs.SetInt("multiplier", GameManager.multiplier);
         }
