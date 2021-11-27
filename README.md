@@ -5,7 +5,11 @@
 ## Version History
 - Next version: 1.3.9
 
-- Current version: 1.3.8 - 2021.11.13
+- Current version: 1.3.8.5 - 2021.11.27
+  #### Game changes:
+    - Better buttton at lodaing scene(more better buttons coming soon)
+
+- Version: 1.3.8 - 2021.11.13
   #### Game changes:
     - Better loading scene
     - Plus one advertisement: it's a game! (+1 earn)
