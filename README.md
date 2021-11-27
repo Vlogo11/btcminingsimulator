@@ -1,6 +1,10 @@
 # BTC Mining Simulator
-### Download BTC Mining Simulator 1.3.8 APK
+### Download BTC Mining Simulator 1.3.8.5 APK
 #### https://github.com/Vlogo11/btcminingsimulatorapk
+
+##Requirements
+- Minimum Android level: Android 4.4 (KitKat)
+- Recommended resulotion: HD or FullHD
 
 ## Version History
 - Next version: 1.3.9
