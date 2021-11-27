@@ -12,6 +12,7 @@
 - Current version: 1.3.8.5 - 2021.11.27
   #### Game changes:
     - Better buttton at lodaing scene(more better buttons coming soon)
+    - Changed game advertisement value: +1 earn; -300 Money
 
 - Version: 1.3.8 - 2021.11.13
   #### Game changes:
@@ -37,4 +38,4 @@
 - Version: 1.3.5 - 2021.10.27
   #### Game changes:
     - Ad system, without Internet connection (Rickroll ad :D)
-    - You can get money from the ad! (+100)
+    - You can get money from the ad! (+100 Money)
