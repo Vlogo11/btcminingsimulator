@@ -1045,7 +1045,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: YOU HAVE TO HAVE A MINIMUM OF $300 MONEY!
+  m_Text: YOU MUST HAVE A MINIMUM OF $300 MONEY!
 --- !u!222 &1296107108
 CanvasRenderer:
   m_ObjectHideFlags: 0
