@@ -4,7 +4,7 @@
 
 ## Requirements
 - Minimum Android level: Android 4.4 - KitKat (API level 19)
-- Recommended resulotion: HD or FullHD
+- Recommended resolution: HD or Full HD
 
 ## Version History
 - Next version: 1.3.9
