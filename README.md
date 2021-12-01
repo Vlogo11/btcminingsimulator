@@ -7,9 +7,13 @@
 - Recommended resolution: HD or Full HD
 
 ## Version History
-- Next version: 1.3.9
+- Next version: 1.4
 
-- Current version: 1.3.8.5 - 2021.11.27
+- Current version: 1.3.9 - 2021.12.01
+  #### Game changes:
+    - So much better scaling(perfect gaming view at all resolutions)!
+
+- Version: 1.3.8.5 - 2021.11.27
   #### Game changes:
     - Better buttton at lodaing scene(more better buttons coming soon)
     - Changed game advertisement value: +1 earn; -300 Money
