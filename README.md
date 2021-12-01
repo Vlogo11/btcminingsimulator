@@ -1,5 +1,5 @@
 # BTC Mining Simulator
-### Download BTC Mining Simulator 1.3.8.5 APK
+### Download BTC Mining Simulator 1.3.9 APK
 #### https://github.com/Vlogo11/btcminingsimulatorapk
 
 ## Requirements
