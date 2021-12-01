@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Move.unity
     guid: 17af0d7a022af954fbc2f07896a04022
+  - enabled: 1
+    path: Assets/Numbergenerator.unity
+    guid: af33f60fbdfc12e438713a227a35f3a9
   m_configObjects: {}
