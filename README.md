@@ -10,9 +10,10 @@
 ## Version History
 - Next version: 1.4
 
-- Current version: 1.3.9 - 2021.12.01
+- Current version: 1.3.9 - 2021.12.02
   #### Game changes:
     - So much better scaling (perfect gaming view at all resolutions)!
+    - Little bugfix
 
 - Version: 1.3.8.5 - 2021.11.27
   #### Game changes:
