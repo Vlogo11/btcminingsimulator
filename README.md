@@ -1,5 +1,5 @@
 # BTC Mining Simulator
-### Download BTC Mining Simulator 1.3.9 APK
+### Download BTC Mining Simulator 1.4 APK
 #### https://github.com/Vlogo11/btcminingsimulatorapk
 
 ## Requirements
@@ -8,9 +8,13 @@
 - Minimum 60MB free space
 
 ## Version History
-- Next version: 1.4
+- Next version: 1.4.1
 
-- Current version: 1.3.9 - 2021.12.02
+- Current version: 1.4 - 2021.12.10
+  #### Game changes:
+    - Better Unity loading scene
+
+- Version: 1.3.9 - 2021.12.02
   #### Game changes:
     - So much better scaling (perfect gaming view at all resolutions)!
     - Little bugfix
